@@ -12,10 +12,10 @@
 # "beta" ready to teach for the first time, editing stage after first taught
 # "stable" workshop has been taught and modifications made if necessary, little
 # to no editing required at this stage.
-life_cycle: "pre-alpha"
+life_cycle: "stable"
 
 # Overall title for the Workshop.
-title: "Workshop Title"
+title: "Introduction to RMarkdown"
 
 
 # Magic to make URLs resolve both locally and on GitHub.
