@@ -6,30 +6,26 @@ permalink: /setup/
 
 ## Software setup
 
-FIXME add/edit  install instructions (automated, see comment)
+Please install R and RStudio before this workshop or login to the UIC virtual lab to use the software required for the workshop. See instructions below for both options.
 
 {% comment %} to add automated software install instructions, add instructions available in the install instructions 
 folder \_includes/install_instructions by using code seen below. Add or remove install instructions as needed. {% endcomment %}
 
+{% include install_instructions/r.html %}
 {% include install_instructions/virtual_lab.html %}
-{% include install_instructions/editor.html %}
 {% include install_instructions/videoconferencing.html %}
 
 ## Setup files:
 
 Please download the following files to particpate in the workshop:
 
-[ADD DOWNLOAD LINK] data: 
-[ADD DOWNLOAD LINK] script: 
+[R Project zip files](files/R-repro-pub-main.zip)
 
-ADD links to setup files in `files` folder OR if there are many files, zip setup files, add to `files` folder
-and add link to zip file here
 
 ## About the Data Used in this Workshop:
 
-(if the workshop uses data)
+This workshop uses an adapted version of the data paper: Nitsch, F. J., Sellitto, M., & Kalenscher, T. (2021). The effects of acute and chronic stress on choice consistency. Psychoneuroendocrinology, 131, 105289. https://doi.org/10.1016/j.psyneuen.2021.105289. 
 
-ADD intro/description of data. Including file format and any disciplinary background needed to understand
-why the data is gathered and how it is used.
+The data paper along with its underlying data publicly available at: https://osf.io/6mvq7 were adapted and used for educational purposes with authors’ permission.
 
 
